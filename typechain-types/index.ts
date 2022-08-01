@@ -4,9 +4,11 @@
 export type { Box } from "./Box";
 export type { BoxV2 } from "./BoxV2";
 export type { BoxV3 } from "./BoxV3";
+export type { BoxV4 } from "./BoxV4";
 export type { Greeter } from "./Greeter";
 export * as factories from "./factories";
 export { Box__factory } from "./factories/Box__factory";
 export { BoxV2__factory } from "./factories/BoxV2__factory";
 export { BoxV3__factory } from "./factories/BoxV3__factory";
+export { BoxV4__factory } from "./factories/BoxV4__factory";
 export { Greeter__factory } from "./factories/Greeter__factory";
